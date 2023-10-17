@@ -1,3 +1,5 @@
+I did not use a library to implement the stepper functionality. It is made by hand and it works correctly
+
 
 -download the projet
 -install all depedencies with npm install
