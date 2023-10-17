@@ -1,0 +1,43 @@
+#home-page{
+    height:100vh;
+    width: 100%;
+    .main-container{
+        height: 100vh;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+        justify-content: center;
+        background-repeat: no-repeat;
+        background-color: rgba(180, 99, 235, 0.308);
+        }
+
+    .button-get-started{
+        padding: 12px 12px;
+        background-color: rgba(126, 43, 182, 0.781);
+        border-color: rgb(19, 116, 103);
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+    }
+
+    .button-get-started label{
+        cursor: pointer;
+        color: white;
+    }
+
+    .btn-control{
+        display: flex;
+        gap: 10px;
+    }
+
+    .btn{
+        cursor: pointer;
+        border-radius: 6px;
+        padding: 10px;
+        background-color: rgb(128, 68, 197);
+    }
+}
