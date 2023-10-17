@@ -1,4 +1,3 @@
-![image](https://github.com/ingenieurIT/test-app/assets/78941022/3e6e4ee9-8cab-461a-88d4-3783011934ff)# test-app
 
 -download the projet
 -install all depedencies with npm install
